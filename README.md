@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ifham21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Hi I’m Ahmed Ifham. I am an undergraduate student at <b>IIT</b> following <b> BEng.Software Engineer </b>.
+Hi I’m Ahmed Ifham. 
+<img src="https://ifham212.github.io/assets/img/about.png">
+<br>I am an undergraduate student at <b>IIT</b> following <b> BEng.Software Engineer </b>.
 <br><br>Here's the link for my Personal portfolio <br>
 <a href="https://ifham212.github.io/"> Personal Portfolio </a>
 <br>I got to have hands on experience on:
