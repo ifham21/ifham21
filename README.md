@@ -2,7 +2,8 @@ Hi I’m Ahmed Ifham.
 <br>
 I am an undergraduate student at <b>IIT</b> following <b> BEng.Software Engineering</b>.
 <br>You can able to check out my <a href="https://ifham212.github.io/"> Personal Portfolio </a>
-<br>I have hands on experience on:
+<br>
+I have hands on experience on:
 <li>HTML
 <li>CSS
 <li>JavaScript
