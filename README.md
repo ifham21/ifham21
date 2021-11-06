@@ -1,10 +1,8 @@
 Hi I’m Ahmed Ifham. 
 <br>
-<br>
-<img src="https://ifham212.github.io/assets/img/about.png">
 I am an undergraduate student at <b>IIT</b> following <b> BEng.Software Engineering</b>.
-<br><br>You can able to check out my <a href="https://ifham212.github.io/"> Personal Portfolio </a>
-<br>I got to have hands on experience on:
+<br>You can able to check out my <a href="https://ifham212.github.io/"> Personal Portfolio </a>
+<br>I have hands on experience on:
 <li>HTML
 <li>CSS
 <li>JavaScript
@@ -15,6 +13,7 @@ I am an undergraduate student at <b>IIT</b> following <b> BEng.Software Engineer
 <li>Java
 <li>Python
 <li>MySQL
+<br>
 <br> You can able to follow me on:
 <li><a href=
 "https://www.linkedin.com/in/ahmed-ifham-2554a11a5">LinkedIn</a>
