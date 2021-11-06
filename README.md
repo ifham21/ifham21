@@ -2,9 +2,8 @@ Hi I’m Ahmed Ifham.
 <br>
 <br>
 <img src="https://ifham212.github.io/assets/img/about.png">
-<I am an undergraduate student at <b>IIT</b> following <b> BEng.Software Engineering</b>.
-<br><br>Here's the link for my Personal portfolio <br>
-<a href="https://ifham212.github.io/"> Personal Portfolio </a>
+I am an undergraduate student at <b>IIT</b> following <b> BEng.Software Engineering</b>.
+<br><br>You can able to check out my <a href="https://ifham212.github.io/"> Personal Portfolio </a>
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
