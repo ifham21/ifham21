@@ -17,8 +17,6 @@ I have hands on experience on:
 <br>
 <br> You can able to follow me on:
 <li><a href=
-"https://www.linkedin.com/in/ahmed-ifham-2554a11a5">LinkedIn</a>
-<li><a href=
 "https://www.instagram.com/ifham21/?hl=en">Instagram</a>
 <li><a href=
-"https://github.com/ifham212">GitHub</a>
+"https://github.com/ifham21">GitHub</a>
